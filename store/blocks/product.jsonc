@@ -60,6 +60,21 @@
       "shipping-simulator"
     ]
   },
+  "sku-selector": {
+    "props": {
+      "hideImpossibleCombinations": false
+    }
+  },
+  "product-quantity": {
+    "props": {
+      "warningQuantityThreshold": 9999999
+    }
+  },
+  "shipping-simulator": {
+    "props": {
+      "skuID": "product-identifier.product"
+    }
+  },
   "buy-button": {
     "props": {
       "isOneClickBuy": true,
