@@ -76,7 +76,9 @@
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": true,
-      "initialSelection": "empty"
+      "initialSelection": "empty",
+      "showVariationsLabels": true,
+      "showVariationsErrorMessage": true
     }
   },
   "product-quantity": {
