@@ -36,8 +36,8 @@
             "logo",
             "header-spacer",
             "search-bar",
-            "header-spacer",
-            "minicart",            
+            "minicart",
+            "header-spacer",            
             "login"            
         ],
         "props": {
