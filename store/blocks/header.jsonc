@@ -37,8 +37,7 @@
             "header-spacer",
             "search-bar",
             "header-spacer",
-            "minicart",
-            "header-spacer",            
+            "minicart",            
             "login"            
         ],
         "props": {
