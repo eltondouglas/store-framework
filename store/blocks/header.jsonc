@@ -37,8 +37,7 @@
             "header-spacer",
             "search-bar",
             "minicart",           
-            "login",
-            "header-spacer"           
+            "login"          
         ],
         "props": {
             "inverted": true,
